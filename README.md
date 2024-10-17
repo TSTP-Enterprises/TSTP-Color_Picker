@@ -31,7 +31,7 @@ Colors are saved in a SQLite3 database and displayed in a sleek, dark-themed gri
 <h2>Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-repo/tstp-color-picker.git</code></pre>
+    <pre><code>git clone https://github.com/TSTP-Enterprises/TSTP-Color_Picker.git</code></pre>
   </li>
   <li>Navigate to the project directory:
     <pre><code>cd tstp-color-picker</code></pre>
